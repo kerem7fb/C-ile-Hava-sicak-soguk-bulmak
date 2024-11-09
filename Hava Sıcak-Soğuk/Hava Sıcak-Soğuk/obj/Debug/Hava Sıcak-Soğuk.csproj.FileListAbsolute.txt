@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\Hava Sıcak-Soğuk\Hava Sıcak-Soğuk\bin\Debug\Hava Sıcak-Soğuk.exe.config
+C:\Users\user\Desktop\10-M\Hava Sıcak-Soğuk\Hava Sıcak-Soğuk\bin\Debug\Hava Sıcak-Soğuk.exe
+C:\Users\user\Desktop\10-M\Hava Sıcak-Soğuk\Hava Sıcak-Soğuk\bin\Debug\Hava Sıcak-Soğuk.pdb
+C:\Users\user\Desktop\10-M\Hava Sıcak-Soğuk\Hava Sıcak-Soğuk\obj\Debug\Hava Sıcak-Soğuk.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\Hava Sıcak-Soğuk\Hava Sıcak-Soğuk\obj\Debug\Hava_Sıcak_Soğuk.Form1.resources
+C:\Users\user\Desktop\10-M\Hava Sıcak-Soğuk\Hava Sıcak-Soğuk\obj\Debug\Hava_Sıcak_Soğuk.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\Hava Sıcak-Soğuk\Hava Sıcak-Soğuk\obj\Debug\Hava Sıcak-Soğuk.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\Hava Sıcak-Soğuk\Hava Sıcak-Soğuk\obj\Debug\Hava Sıcak-Soğuk.exe
+C:\Users\user\Desktop\10-M\Hava Sıcak-Soğuk\Hava Sıcak-Soğuk\obj\Debug\Hava Sıcak-Soğuk.pdb
